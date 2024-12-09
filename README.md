@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div>
 <a href="https://github.com/lukasffsa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasffsa&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasffsa&layout=compact&langs_count=7&inlcude_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasffsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
 </div>
 <!--
