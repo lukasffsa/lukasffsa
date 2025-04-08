@@ -1,6 +1,4 @@
 ## Hi there 👋
-Tecnologias familiares:
-<i class="devicon-python-plain"></i>        
 <div>
 <a href="https://github.com/lukasffsa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasffsa&layout=compact&langs_count=7&inlcude_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600"/>
