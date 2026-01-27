@@ -44,6 +44,3 @@ Computer Science student
 </div>
 
 ---
-
-### ⚡ Fun fact
-I like understanding **why things work**, not just *that* they work.
