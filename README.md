@@ -1,30 +1,49 @@
-# Hello there! 👋
-#### You can check me on:
-<div>
-<a href="https://www.instagram.com/lukas_de_sa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/u/lukasffsa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" target="_blank"></a>
-<a href = "mailto:lukasfferreiradesa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lukas-de-s%C3%A1-5103962b7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<p>
-  
-</p>
-<div>
-<a href="https://github.com/lukasffsa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasffsa&layout=compact&langs_count=7&inlcude_all_commits=true&count_private=true&theme=dracula&cache_seconds=3600"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasffsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-</div>
-<!--
-**lukasffsa/lukasffsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Lukas 👋  
+Computer Science student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find me around the web
+<div align="left">
+  <a href="https://www.instagram.com/lukas_de_sa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/lukasffsa/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=LeetCode&logoColor=orange"/>
+  </a>
+  <a href="mailto:lukasfferreiradesa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lukas-de-s%C3%A1-5103962b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 🧠 About me
+- 🎓 Computer Science student at UFJF  
+- 🤖 Interested in **Data Engineering, Data Science, Machine Learning**  
+
+---
+
+### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=racket&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lukasffsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasffsa&layout=compact&langs_count=8&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
+### ⚡ Fun fact
+I like understanding **why things work**, not just *that* they work.
