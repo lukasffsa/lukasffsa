@@ -1,4 +1,4 @@
-## Hey, I'm Lukas 👋  
+## Hey, I'm Lukas
 Data Analyst at CAEd - UFJF
 
 ### You can check me on:
