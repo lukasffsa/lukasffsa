@@ -13,8 +13,7 @@ Data Analyst at CAEd - UFJF
 
 ### About Me
 
-- Computer Science student at UFJF  
-- Data Analyst at CAEd - UFJF  
+- Computer Science student at UFJF 
 - Interested in **Data Engineering**, **Data Science**, **Machine Learning** and **Computer Vision**
 
 ---
